@@ -1,4 +1,4 @@
-#The UCI HAR Dataset CodeBook
+#The UCI HAR Dataset CodeBook 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
