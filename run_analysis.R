@@ -1,4 +1,4 @@
-library(plyr)
+library(plyr) 
 # 1. Merges the training and the test sets to create one data set.
 xTrain <- read.table("train/X_train.txt")   
 yTrain <- read.table("train/y_train.txt") 
